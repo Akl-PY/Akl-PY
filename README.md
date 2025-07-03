@@ -1,4 +1,5 @@
-  ![Disponible para oportunidades](https://img.shields.io/badge/-Disponible%20para%20trabajar-%23a855f7?style=for-the-badge&logo=freelancer&logoColor=white)
+  [![Disponible para oportunidades](https://img.shields.io/badge/-Disponible%20para%20trabajar-%23a855f7?style=for-the-badge&logo=freelancer&logoColor=white)](https://www.linkedin.com/in/daniel-galetto-3bbb5a264/)
+  [![🔥 Modo Code ON](https://img.shields.io/badge/-🔥%20Modo%20Code%20ON-%23a855f7?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/04IZ1UFGbGvW8AT6GraNkE?si=c7be1898f1ab4280)
 
 
 <div align="center">
@@ -92,10 +93,16 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Akl-PY&show_icons=true&theme=tokyonight" />
 </p>
 
+## 📱 Contacto
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%23a855f7?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-galetto-3bbb5a264/)
+[![Email](https://img.shields.io/badge/-Email-%231E1E2F?style=for-the-badge&logo=gmail&logoColor=white)](mailto:danielgenarog@gmail.com)
+[![Portfolio](https://img.shields.io/badge/-Portafolio-%23a855f7?style=for-the-badge&logo=briefcase&logoColor=white)](https://tulink.briefcase.dev)
 
 ---
 > 🎧 “Modo oscuro, café cargado y 40 pestañas abiertas. Productividad: activada.”
 >
+
 
 <div align="center">
   
